@@ -8,7 +8,7 @@ const App = createStackNavigator({
 },{
   defaultNavigationOptions:{
     //ヘッダーの文字
-    headerTitle:'スクリーン①',
+    headerTitle:'Navigation',
     headerTintColor:'#fff',
     //ヘッダーのスタイル
     headerBackTitle:null,
